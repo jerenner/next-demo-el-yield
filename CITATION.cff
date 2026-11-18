@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite the paper below."
+title: "NEXT-DEMO++ electroluminescence yield analysis"
+authors:
+  - name: "NEXT Collaboration"
+preferred-citation:
+  type: article
+  title: "Electroluminescence Yield Measurements in Xenon Gas with the NEXT-DEMO++ Detector"
+  authors:
+    - family-names: Renner
+      given-names: J.
+      affiliation: "NEXT Collaboration"
+  year: 2026
+  url: "https://arxiv.org/abs/2604.15905v1"
